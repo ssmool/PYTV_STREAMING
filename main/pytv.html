@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+#py_blob.py
+#-------------------------
+#author:asytrick
+#website:github.com/ssmool
+#e-mail:eusmool@gmail.com
+#-------------------------
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PYTV - Streaming #asytrick</title>
+    <script src="scripts/jquery-2.2.4.js"></script>
+    <script src="conn.js"></script>
+</head>
+<body>
+    <form>
+        <label for="video">PYTV - Streaming #asytrick:</label><br>
+	<h3>SERVER ADDRESS:&nbsp<input id="addr_host" name="addr_host" type="text" placeholder="127.0.0.1"></input></h3>
+	<h3>PORT:&nbsp<input id="addr_port" name="addr_port" type="text" placeholder="2313"></input></h3>
+	<h3>ENDPOINT:&nbsp<input id="addr_endpoint" name="addr_endpoint" type="text" placeholder="cod3586_mxlake_x0vid_frenjpchafr_n00702x_tkzx"></input></h3>
+	<h3><input type="button" value="Connect to Server" onClick="connect()"></input></h3>
+        <video id="vpy" name="vpy" controls width="320" height="240" controls>
+            <source src="data:video/mp4;base64,{{ base64_video }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </form>
+</body>
+</html>
