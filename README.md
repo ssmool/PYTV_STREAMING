@@ -1,6 +1,6 @@
 # 🌏 ATLAS TV STREAMING
 
-![Lisa HTML5 Editor Logo](./assets/atlas_tv_streaming_asytrick_ssmool_x.jpg)
+![ATLAS TV STREAMING Logo](./assets/atlas_tv_streaming_asytrick_ssmool_x.jpg)
 
 **Beta Version 1.0**
 
