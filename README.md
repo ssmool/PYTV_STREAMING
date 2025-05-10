@@ -1,4 +1,4 @@
-![ATLAS TV STREAMING](logo_x.png)
+![ATLAS TV STREAMING](atlas_tv_streaming_asytrick_ssmool.jpg)
 
 # ATLAS TV STREAMING
 
