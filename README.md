@@ -1,46 +1,43 @@
 # 🌏 ATLAS TV STREAMING
 
-**Versão Beta 1.0**
+**Beta Version 1.0**
 
-Projeto desenvolvido em Python para **streaming de vídeo conferências, VOIP, chat e broadcast**. Compatível com HTML5 e endpoints **HTTP/HTTPS**, o ATLAS TV STREAMING é uma solução robusta e modular para comunicação e transmissão ao vivo na web.
+A project developed in Python for **streaming video conferences, VOIP, chat and broadcast**. Compatible with HTML5 and **HTTP/HTTPS** endpoints, ATLAS TV STREAMING is a robust and modular solution for communication and live broadcasting on the web.
 
+## 🚀 Beta 1.0 features
 
-## 🚀 Funcionalidades da versão Beta 1.0
+- Live video streaming (video conferencing)
+- VOIP communication and integrated chat
+- Compatibility with modern browsers via HTML5
+- Support for HTTP and HTTPS connections
+- Scalable framework for future features
 
-- Transmissão de vídeo ao vivo (video conferência)
-- Comunicação por VOIP e chat integrado
-- Compatibilidade com navegadores modernos via HTML5
-- Suporte a conexões HTTP e HTTPS
-- Estrutura escalável para futuros recursos
+## 🧪 Development Roadmap
 
+### 🔹 Alpha version (in development)
+- Creation of playlists and broadcast channels
+- Catalog management via JSON and API
+- Access control and authentication via API
 
-## 🧪 Roadmap de Desenvolvimento
+### 🔹 Version 2.0 (future)
+- Encryption of multimedia collections
+- Streaming of various files (PDF, images, etc.)
+- Transmission of binaries for software installation and updates
 
-### 🔹 Versão Alpha (em desenvolvimento)
-- Criação de playlists e canais de broadcast
-- Gerenciamento de catálogo via JSON e API
-- Controle de acesso e autenticação via API
+## 📦 Installation
 
-### 🔹 Versão 2.0 (futura)
-- Criptografia de acervo multimídia
-- Streaming de arquivos diversos (PDF, imagens, etc.)
-- Transmissão de binários para instalação e atualizações de softwares
-
-
-## 📦 Instalação
-
-Clone este repositório usando o comando:
+Clone this repository using the command:
 
 git clone https://github.com/ssmool/PYTV_STREAMING.git
 
-👨‍💻 Autor
+👨‍💻 Author
 
-Projeto desenvolvido por #asytrick
+Project developed by #asytrick
 
-    🌐 Website: https://github.com/ssmool/PYTV_STREAMING
+🌐 Website: https://github.com/ssmool/PYTV_STREAMING
 
-    📧 Email: eusmool@gmail.com
+📧 Email: eusmool@gmail.com
 
-📜 Licença
+📜 License
 
-Este projeto está licenciado sob os termos da licença CREATIVE COMMONS ZERO.
+This project is licensed under the terms of the CREATIVE COMMONS ZERO license.
