@@ -1,12 +1,9 @@
-![ATLAS TV STREAMING](atlas_tv_streaming_asytrick_ssmool.jpg)
-
-# ATLAS TV STREAMING
+# 🌏 ATLAS TV STREAMING
 
 **Versão Beta 1.0**
 
 Projeto desenvolvido em Python para **streaming de vídeo conferências, VOIP, chat e broadcast**. Compatível com HTML5 e endpoints **HTTP/HTTPS**, o ATLAS TV STREAMING é uma solução robusta e modular para comunicação e transmissão ao vivo na web.
 
----
 
 ## 🚀 Funcionalidades da versão Beta 1.0
 
@@ -16,7 +13,6 @@ Projeto desenvolvido em Python para **streaming de vídeo conferências, VOIP, c
 - Suporte a conexões HTTP e HTTPS
 - Estrutura escalável para futuros recursos
 
----
 
 ## 🧪 Roadmap de Desenvolvimento
 
@@ -30,7 +26,6 @@ Projeto desenvolvido em Python para **streaming de vídeo conferências, VOIP, c
 - Streaming de arquivos diversos (PDF, imagens, etc.)
 - Transmissão de binários para instalação e atualizações de softwares
 
----
 
 ## 📦 Instalação
 
